@@ -169,7 +169,7 @@ class NotificationManager {
     await _notificationsPlugin.show(
       5454,
       'What is the secret of comedy?',
-      'Заноздра Д.Р. 75МС',
+      'Картун Я.С. 75МС',
       notificationDetails,
     );
     print('Immediate notification shown');
